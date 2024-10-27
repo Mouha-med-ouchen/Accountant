@@ -115,3 +115,25 @@ td {
     margin: 20px 0;
     padding: 10px;
 }
+
+@media (max-width:500px) {
+    .inputs {
+        width: 600px;
+    }
+    .head,
+    .price {
+        width: 600px
+    }
+    .price input {
+        width: 600px
+    }
+    .price input {
+        width: 600px
+    }
+    .outputs {
+        width: 600px
+    }
+    table {
+        width: 90%;
+    }
+}
